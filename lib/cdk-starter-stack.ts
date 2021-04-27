@@ -67,6 +67,6 @@ export class CdkStarterStack extends cdk.Stack {
     // iam.PermissionsBoundary.of(user).apply(boundary2);
 
     // 👇 remove the permission boundary from the User
-    iam.PermissionsBoundary.of(user).clear();
+    // iam.PermissionsBoundary.of(user).clear();
   }
 }
