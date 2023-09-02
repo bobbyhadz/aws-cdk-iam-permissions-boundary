@@ -1,7 +1,7 @@
 # Permissions Boundary Example in AWS CDK - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-iam-permissions-boundary)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-iam-role)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
